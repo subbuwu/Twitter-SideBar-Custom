@@ -87,6 +87,18 @@ a{
 }
 
 
+@media only screen and (max-width: 975px) {
+    .main-container {
+        margin: 2px;
+        width: 40vh;
+    }
+    .tweet {
+        margin:16px;
+        padding: 10px;
+        background-color: #668cff;
+    }
+  }
+
 
 
 
